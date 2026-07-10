@@ -13,8 +13,7 @@ Projeto desenvolvido com Flask e SQLite para estudar desenvolvimento backend.
 
 - [ ] Implementar expiração automática dos links
 - [ ] Permitir definir data de expiração
-- [ ] Adicionar estatísticas de acesso
-- [ ] Criar testes unitários
+- [ ] Gerar QRcode automaticamente
 - [ ] Melhorar a interface
 
 ## Tecnologias
